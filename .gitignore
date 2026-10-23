@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+haarcascade_frontalface_default.xml
+400x400/
+*.jpg
+*.jpeg
+*.png
+*.JPG
+*.JPEG
+*.PNG
